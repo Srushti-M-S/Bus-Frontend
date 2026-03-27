@@ -5,7 +5,7 @@ import BusList from "./pages/BusList"; // For users to book
 import Buses from "./pages/Buses";     // For admin to manage buses
 import AddBus from "./pages/AddBus";
 import EditBus from "./pages/EditBus";
-import Navbar from "./components/Navbar";
+import Navbar from "./components/NavBar";
 import Payment from "./pages/payment";
 import SeatBooking from "./pages/SeatBooking";
 
